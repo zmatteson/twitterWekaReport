@@ -1,0 +1,19 @@
+
+Results
+====
+
+Correctly Classified Instances         615               85.1801 %
+Incorrectly Classified Instances       107               14.8199 %
+Kappa statistic                          0.5349
+K&B Relative Info Score              29926.6369 %
+K&B Information Score                  220.205  bits      0.305  bits/instance
+Class complexity | order 0             530.3161 bits      0.7345 bits/instance
+Class complexity | scheme              577.5016 bits      0.7999 bits/instance
+Complexity improvement     (Sf)        -47.1855 bits     -0.0654 bits/instance
+Mean absolute error                      0.1715
+Root mean squared error                  0.3566
+Relative absolute error                 52.2733 %
+Root relative squared error             88.108  %
+Total Number of Instances              722     
+
+0.9075194468452895 0.898972602739726 0.9162303664921466
